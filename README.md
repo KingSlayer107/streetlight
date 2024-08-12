@@ -49,7 +49,7 @@ The code also includes a `createDataString()` function, which formats the sensor
 
 ## Contributors
 
-Melroy Desouza
-Nasim Ansari
-Leonne Desouza
-Faimaan Aga
+1. Melroy Desouza
+2. Nasim Ansari
+3. Leonne Desouza
+4. Faimaan Aga
