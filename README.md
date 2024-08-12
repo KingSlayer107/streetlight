@@ -48,8 +48,4 @@ The code also includes a `createDataString()` function, which formats the sensor
     - Use the Serial Monitor to view the system's data output.
 
 ## Contributors
-
-1. Melroy Desouza
-2. Nasim Ansari
-3. Leonne Desouza
-4. Faimaan Aga
+Melroy Desouza , Nasim Ansari , Leonne Desouza , Faimaan Aga
