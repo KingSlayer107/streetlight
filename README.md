@@ -1,2 +1,4 @@
 # IoT Based Streetlight automation and Fault Detection
-This is my college project
+
+COLLEGE PROJECT
+This is my final year project.This project was done by Me and My colleagues
